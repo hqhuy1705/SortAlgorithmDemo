@@ -1,5 +1,5 @@
 # SortAlgorithmDemo
-Sort Algorithm Using C# + net6.0:
+Sort Algorithm using C# + Net6.0:
  - Bubble Sort
  - Insertion Sort
  - Selection Sort
